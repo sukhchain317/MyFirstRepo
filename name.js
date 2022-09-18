@@ -1,1 +1,1 @@
-var str="Avtar love you";
+sadds
